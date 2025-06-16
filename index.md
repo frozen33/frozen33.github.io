@@ -19,10 +19,10 @@ DevOps Engineer with **2 years and 10 months experience** in:
 ## Certifications
 ### Microsoft
 - Microsoft Azure Fundamentals
-- Credentials:
+- Credentials: [Credentials Page](https://learn.microsoft.com/api/credentials/share/en-us/NandhaKumarJ-7983/2FCEC8737A26C035?sharingId=3CC5B44D2E3295B8)
 ### GCP (Google Cloud Platform)
 - GCP Associate Cloud Engineer
-- Credentials:
+- Credentials: [Credentials Page](https://www.credly.com/badges/40ca8f68-430e-4d1c-abe9-8bf9ee2081c1/public_url)
 ---
 
 ## Projects
