@@ -24,6 +24,7 @@ DevOps Engineer with **2 years and 10 months experience** in:
 ### GCP (Google Cloud Platform)
 - GCP Associate Cloud Engineer
 - Credentials: [Credentials Page](https://www.credly.com/badges/40ca8f68-430e-4d1c-abe9-8bf9ee2081c1/public_url)
+
 ---
 
 ## Projects
