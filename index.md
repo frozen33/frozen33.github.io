@@ -73,5 +73,5 @@ DevOps Engineer with **2 years and 10 months experience** in:
 ## Contact
 
 - [GitHub](https://github.com/frozen33)
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/nandhakumar-j-701b28228))
+- [LinkedIn](https://www.linkedin.com/in/nandhakumar-j-701b28228)
 
