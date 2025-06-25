@@ -65,7 +65,7 @@ DevOps Engineer with **2 years and 10 months experience** in:
 | Database        | MongoDB (Basics), PostgreSQL (basic) |
 | Monitoring      | Prometheus, Grafana |
 | Agile           | JIRA |
-| AI/Analysis Tool| Panda AGI, LIDA, Agentic AI |
+| AI/Analysis Tool| Panda AGI, LIDA, Agentic AI, LangChain |
 | Others          | ADB, sockets, django |
 
 ---
